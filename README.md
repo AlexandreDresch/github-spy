@@ -1,0 +1,1 @@
+Aplicação front-end criada com React
